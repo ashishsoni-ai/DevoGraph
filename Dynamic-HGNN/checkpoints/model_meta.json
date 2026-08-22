@@ -1,0 +1,11 @@
+{
+  "fate_split_seed": 0,
+  "num_features": 10,
+  "hidden_dim": 128,
+  "num_layers": 3,
+  "best_epoch": 17,
+  "fate_acc": 0.958149790763855,
+  "fate_acc_first": 0.8947136402130127,
+  "val_loss_first": 0.21878502865632374,
+  "val_loss_best": 0.08749213454624018
+}
